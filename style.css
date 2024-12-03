@@ -195,24 +195,24 @@
     background-color: #ffffff;
     flex: 1 1 250px;
   }
-  .why-choose-us {
+  #why-choose-us {
     background-color: #D9526F;
     font-family: 'Kavoon';
     color: #ffffff;
   }
-  .why-choose-us ul {
+  #why-choose-us, ul {
     list-style: none;
   }
-  .why-choose-us, #personalized-approach {
+  #why-choose-us, #personalized-approach {
     background-color: #4CA7C0;
   }
-  .why-choose-us, #proven-results {
-    background-color: #6B8FE7;
+  #why-choose-us, #proven-results {
+    background-color: #6B8FE7;  
   }
-  .why-choose-us, #supportive-enviroment {
+  #why-choose-us, #supportive-enviroment {
     background-color: #E9BB57
   }
-  .why-choose-us, #flexible-options {
+  #why-choose-us, #flexible-options {
     background-color: #ffffff;
   }
   #pricing {
@@ -227,4 +227,42 @@
 }
 #One-On-One table th {
     background-color: #ffffff;
+}
+#group-coaching h3 {
+    color: #E9BB57;
+}
+#group-coaching tr{
+    background-color: #E9BB57;
+}
+#group-coaching th {
+    background-color: #ffffff;
+}
+#workshop h3 {
+    color: #E9BB57;
+}
+#workshop tr {
+    background-color: #E9BB57;
+}
+#workshop th {
+    background-color: #ffffff;
+}
+#online-courses h3 {
+    color: #E9BB57;
+}
+#online-courses tr {
+    background-color: #E9BB57;
+}
+#online-courses th {
+    background-color: #ffffff;
+}
+#copyright {
+    background-color: #6B8FE7;
+    text-align: center;
+}
+footer {
+    background-color: #D9526F;
+    color: #ffffff;
+}
+footer h2 {
+    font-family: 'Kavoon';
 }
